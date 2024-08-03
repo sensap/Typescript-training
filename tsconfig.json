@@ -1,0 +1,13 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "compilerOptions": {
+        "target": "ESNext",
+        "outDir": "dist",
+        "noEmit": false,
+        "allowJs": true,
+        "checkJs": true
+    }
+    
+}
